@@ -1,4 +1,4 @@
-# PROJETO VIA CEP
+# Projeto ViaCep
 ## Descrição do Projeto
 Criamos uma ideia de Projeto que constitia em finalizar uma compra na nossa loja "Cigarleite" e para fechar a compra precisava colocar as informações do seu endreço.
 
